@@ -1,11 +1,13 @@
 <template>
-    <div>asldfkajsdflkj</div>
+    <div>
+        Start
+    </div>
 </template>
 
 <script>
-    export default {
-        name: "Start"
-    }
+export default {
+    name: "Start",
+}
 </script>
 
 <style scoped>
