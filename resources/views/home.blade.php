@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
-@section('content')
-     <App></App>
+@section('content')ss
+     <App>ss</App>s
 @endsection

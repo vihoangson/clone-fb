@@ -8,5 +8,5 @@ const app = new Vue({
     component:{
         App
     },
-    router,
+    // router,
 });
